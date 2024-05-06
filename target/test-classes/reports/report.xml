@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.245" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Amazon Document" name="Forget Test" time="6.044">
+<system-out><![CDATA[
+Given browser "chrome" is open with url "https://www.amazon.in".............passed
+And click signin............................................................passed
+When click help and click forget............................................passed
+And enter email in textbox..................................................passed
+And click button............................................................passed
+Then recover password.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
